@@ -1,11 +1,7 @@
 {
   youtubes: [
     {
-      id: 'aLaXusuoY_0',
-      title: 'Goiaba Burger - Sanduba Insano ',
-      subtitle: 'How To Produce CreMe Caramel',
-      avatar_image: 'https://yt3.ggpht.com/-SoAkeW-2S1o/AAAAAAAAAAI/AAAAAAAAAAA/YdvN9S_2ubg/s88-c-k-no/photo.jpg',
-      youtube_image: 'http://img.youtube.com/vi/aLaXusuoY_0/hqdefault.jpg'
+      id: 'aLaXusuoY_0'  
     }
   ]
 }
